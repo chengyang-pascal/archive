@@ -1,0 +1,8 @@
+This repositoy contains a selection of programs written by Cheng Yang
+between 1990 and 1991 under Turbo Pascal environment.
+
+You can run each program in one of two ways:
+
+- Compile .PAS file using Turbo Pascal 5.5.
+- Download .EXE file and run it under a DOS simulator (try DOSBOX)
+
