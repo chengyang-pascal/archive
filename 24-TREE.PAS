@@ -1,3 +1,12 @@
+{-----------------------------------------------------------------------}
+{ Given n numbers, use +, -, *, / to form arithmetic expressions that   }
+{ result in a target value (e.g., 24).                                  }
+{                                                                       }
+{ Author: Cheng Yang, 1990-1991                                         }
+{                                                                       }
+{ This version uses trees as internal structure and does not allow      }
+{ non-integers in intermediate results.                                 }
+{-----------------------------------------------------------------------}
 program Calculate_24; { use tree }
 {$M 65520,0,655360}
 {$V-}

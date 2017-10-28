@@ -1,3 +1,11 @@
+{-----------------------------------------------------------------------}
+{ Given n numbers, use +, -, *, / to form arithmetic expressions that   }
+{ result in a target value (e.g., 24).                                  }
+{                                                                       }
+{ Author: Cheng Yang, 1990-1991                                         }
+{                                                                       }
+{ This version uses raw strings instead of trees as internal structure. }
+{-----------------------------------------------------------------------}
 program New24_AnyNumbers(input,output);
 uses dos;
 const opr :array[1..4] of char=('+','-','*','/');

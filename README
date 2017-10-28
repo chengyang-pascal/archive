@@ -1,8 +1,27 @@
 This repositoy contains a selection of programs written by Cheng Yang
+
 between 1990 and 1991 under Turbo Pascal environment.
+
+
 
 You can run each program in one of two ways:
 
+
+
 - Compile .PAS file using Turbo Pascal 5.5.
+
 - Download .EXE file and run it under a DOS simulator (try DOSBOX)
+
+
+
+
+1990-1991年间杨澄开发的部分PASCAL程序，需在Turbo Pascal 5.5环境下编译，在DOS环境下运行。
+也可直接下载EXE文件然后在DOS模拟器(例如 DOSBOX ）中运行。
+
+24-ANY:  24点游戏。内部数据结构以字符串存储。允许中间步骤产生非整数。
+24-TREE: 24点游戏。内部数据结构以树存储。不允许中间步骤产生非整数。
+5CHESS:  人机对弈五子棋游戏。
+MAZE6:   自动生成迷宫游戏。
+PIANO:   键盘模拟钢琴演奏。
+PIANOPL: 以常驻内存形式在背景演奏音乐，与PIANO配合使用。
 
